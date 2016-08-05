@@ -1,0 +1,33 @@
+_repo: The-Flight-of-the-Shadow_8902
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: Cover; The Flight of the Shadow; Copyright; CONTENTS; CHAPTER I; MRS.
+  DAY BEGINS THE STORY; CHAPTER II; MISS MARTHA MOON; CHAPTER III; MY UNCLE; CHAPTER
+  IV; MY UNCLE'S ROOM, AND MY UNCLE IN IT; CHAPTER V; MY FIRST SECRET; CHAPTER VI;
+  I LOSE MYSELF; CHAPTER VII; THE MIRROR; CHAPTER VIII; THANATOS AND ZO; CHAPTER IX;
+  THE GARDEN; CHAPTER X; ONCE MORE A SECRET; CHAPTER XI; THE MOLE BURROWS; CHAPTER
+  XII; A LETTER; CHAPTER XIII; OLD LOVE AND NEW; CHAPTER XIV; MOTHER AND UNCLE; CHAPTER
+  XV; THE TIME BETWEEN; CHAPTER XVI; FAULT AND NO FAULT; CHAPTER XVII; THE SUMMONS;
+  CHAPTER XVIII.
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcc 'PR'
+- !lcsh 'Scotland -- Fiction'
+- GITenberg
+title: The Flight of the Shadow
+url: http://www.gutenberg.org/ebooks/8902
