@@ -1,5 +1,8 @@
 _repo: The-Flight-of-the-Shadow_8902
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacDonald, George
@@ -16,6 +19,8 @@ description: Cover; The Flight of the Shadow; Copyright; CONTENTS; CHAPTER I; MR
   XII; A LETTER; CHAPTER XIII; OLD LOVE AND NEW; CHAPTER XIV; MOTHER AND UNCLE; CHAPTER
   XV; THE TIME BETWEEN; CHAPTER XVI; FAULT AND NO FAULT; CHAPTER XVII; THE SUMMONS;
   CHAPTER XVIII.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8902#The-Flight-of-the-Shadow
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
